@@ -48,7 +48,7 @@ De esta forma todo mundo podrá ver tu código fuente... al ser un proyecto esco
 
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep02.png' width="60%">
 
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/licencia.png' width="60%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/licencias.png' width="60%">
 
 
 
