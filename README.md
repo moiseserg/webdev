@@ -52,6 +52,18 @@ De esta forma todo mundo podrá ver tu código fuente... al ser un proyecto esco
 
 
 
+Revisar las siguientes ligas para más detalles:
+* [páginas para usuarios y proyectos](https://help.github.com/articles/user-organization-and-project-pages/)
+
+* [configurando github para publicar páginas](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/moiseserg/webdev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
