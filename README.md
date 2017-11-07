@@ -7,13 +7,24 @@
 
 ![signin](https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png)
 
-![paso3](https://github.com/moiseserg/webdev/blob/master/docs/images/github02.png)
 
+3. Indicar el plan de uso de github - unlimited public
+![paso3](https://github.com/moiseserg/webdev/blob/master/docs/images/github02.png)
+de esta forma todo mundo podrá ver tu código fuente... al ser un proyecto escolar. No debería haber problema.
+ 
+ 
+4. Responder la encuesta si se desea.
 ![paso4](https://github.com/moiseserg/webdev/blob/master/docs/images/github03.png)
 
-![paso5](https://github.com/moiseserg/webdev/blob/master/docs/images/github04.png)
 
+5. Ir a la guía si se desea una introducción más completa o irse directamente a crear un proyecto.
+![paso5](https://github.com/moiseserg/webdev/blob/master/docs/images/github04.png)
+En este caso irse directamente a crear el proyecto y continuar con los siguientes pasos.
+
+6. Hay que verificar en su correo electrónico al darle clic al link recibido
 ![paso6](https://github.com/moiseserg/webdev/blob/master/docs/images/github06.png)
+
+
 
 ![paso7](https://github.com/moiseserg/webdev/blob/master/docs/images/github07.png)
 
