@@ -32,17 +32,21 @@ De esta forma todo mundo podrá ver tu código fuente... al ser un proyecto esco
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github06.png' width="50%">
 
 7. Hay que verificar en su correo electrónico al darle clic al link recibido
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github07.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github07.png' width="40%">
 
 8. Si deseas ingresar cuentas adicionales para administrar tu cuenta, en estas opciones puedes hacerlo.
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github08.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github08.png' width="60%">
 
 
 ## Crear un proyecto
 
-1. Usar la opción 
-2. Definir el nombre del proyecto 
+1. Usar la opción **Crear repositorio** en el menú de la parte superior derecha de la página.
 
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep01.png' width="40%">
+
+2. Definir el nombre del repositorio
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep02.png' width="60%">
 
 
 
