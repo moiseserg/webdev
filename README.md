@@ -18,28 +18,27 @@ De esta forma todo mundo podrá ver tu código fuente... al ser un proyecto esco
 
  
  
-4. Responder la encuesta si se desea.
+4. Responder la encuesta (si se desea).
 
 <img align="center" width="50%"  src='https://github.com/moiseserg/webdev/blob/master/docs/images/github03.png'>
 
 
 
-5. Ir a la guía si se desea una introducción más completa o irse directamente a crear un proyecto.
+5. Ir a la guía si se desea una introducción más completa o irse directamente a crear un proyecto. En este caso irse directamente a crear el proyecto y continuar con los siguientes pasos.
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github04.png' width="50%">
-En este caso irse directamente a crear el proyecto y continuar con los siguientes pasos.
 
-6. Hay que verificar en su correo electrónico al darle clic al link recibido
+
+6. Se te enviará un correo electrónico a la cuenta que hayas indicado. En caso de no encontrarla revisa tu *spam*.
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github06.png' width="50%">
 
-
+7. Hay que verificar en su correo electrónico al darle clic al link recibido
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github07.png' width="50%">
 
+8. Si deseas ingresar cuentas adicionales para administrar tu cuenta, en estas opciones puedes hacerlo.
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github08.png' width="50%">
 
 
-
-
-### Crear un proyecto
+## Crear un proyecto
 
 1. Usar la opción 
 2. Definir el nombre del proyecto 
