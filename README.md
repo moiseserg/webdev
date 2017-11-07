@@ -5,7 +5,7 @@
 1. Ingresar al sitio [github](https://github.com/)
 2. Ingresar tus datos en el formulario
 
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png' width="50%" style="margin: auto;" >
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png' width="50%" align="center">
 
 
 3. Indicar el plan de uso de github - unlimited public
