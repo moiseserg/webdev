@@ -3,19 +3,24 @@
 ## Crear una cuenta en el sitio de github
 
 1. Ingresar al sitio [github](https://github.com/)
+
 2. Ingresar tus datos en el formulario
 
-<img align="right" width="50%"  src='https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png' >
+<img align="center" width="50%"  src='https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png' >
 
 
-3. Indicar el plan de uso de github - unlimited public
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github02.png' width="50%">
 
-de esta forma todo mundo podrá ver tu código fuente... al ser un proyecto escolar. No debería haber problema.
+3. Indicar el plan de uso de github - unlimited public. 
+De esta forma todo mundo podrá ver tu código fuente... al ser un proyecto escolar. No debería haber problema por ustedes.
+
+<img align="center" width="50%" src='https://github.com/moiseserg/webdev/blob/master/docs/images/github02.png'>
+
+
  
  
 4. Responder la encuesta si se desea.
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github03.png' width="50%">
+
+<img align="center" width="50%"  src='https://github.com/moiseserg/webdev/blob/master/docs/images/github03.png'>
 
 
 
