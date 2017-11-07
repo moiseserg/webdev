@@ -1,11 +1,11 @@
-## Creación de una página web en Github
+# Creación de una página web en Github
 
-### Crear una cuenta en el sitio de github
+## Crear una cuenta en el sitio de github
 
 1. Ingresar al sitio [github](https://github.com/)
 2. Ingresar tus datos en el formulario
 
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png' width="50%" style="box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 150px;" >
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png' width="50%" style="margin: 10px auto;" >
 
 
 3. Indicar el plan de uso de github - unlimited public
