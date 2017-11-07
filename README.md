@@ -3,9 +3,10 @@
 ### Crear una cuenta en el sitio de github
 
 1. Ingresar al sitio [github](https://github.com/)
-2. Ingresar tus datos en el formulario  
-[[https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png)|alt=sign in]]
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+2. Ingresar tus datos en el formulario
+
+![signin](https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png)
+
  Contact a human
 
 
