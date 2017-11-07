@@ -9,27 +9,27 @@
 
 
 3. Indicar el plan de uso de github - unlimited public
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githu02.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github02.png' width="50%">
 
 de esta forma todo mundo podrá ver tu código fuente... al ser un proyecto escolar. No debería haber problema.
  
  
 4. Responder la encuesta si se desea.
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githu03.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github03.png' width="50%">
 
 
 
 5. Ir a la guía si se desea una introducción más completa o irse directamente a crear un proyecto.
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githu04.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github04.png' width="50%">
 En este caso irse directamente a crear el proyecto y continuar con los siguientes pasos.
 
 6. Hay que verificar en su correo electrónico al darle clic al link recibido
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githu06.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github06.png' width="50%">
 
 
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githu07.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github07.png' width="50%">
 
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/githu08.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/github08.png' width="50%">
 
 
 
