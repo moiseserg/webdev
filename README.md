@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+## Creación de una página web en Github
+
+### Crear una cuenta en el sitio de github
+
+1. Ingresar al sitio [github](https://github.com/)
+2. Ingresar tus datos en el formulario  [sign in](https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png)
+
+
+### Crear un proyecto
+
+1. Usar la opción 
+2. Definir el nombre del proyecto 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/moiseserg/webdev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
