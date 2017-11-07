@@ -7,7 +7,18 @@
 
 ![signin](https://github.com/moiseserg/webdev/blob/master/docs/images/githubSignIn.png)
 
- Contact a human
+![paso3](https://github.com/moiseserg/webdev/blob/master/docs/images/github02.png)
+
+![paso4](https://github.com/moiseserg/webdev/blob/master/docs/images/github03.png)
+
+![paso5](https://github.com/moiseserg/webdev/blob/master/docs/images/github04.png)
+
+![paso6](https://github.com/moiseserg/webdev/blob/master/docs/images/github06.png)
+
+![paso7](https://github.com/moiseserg/webdev/blob/master/docs/images/github07.png)
+
+![paso8](https://github.com/moiseserg/webdev/blob/master/docs/images/github08.png)
+
 
 
 ### Crear un proyecto
