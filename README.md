@@ -44,9 +44,12 @@ De esta forma todo mundo podrá ver tu código fuente... al ser un proyecto esco
 
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep01.png' width="40%">
 
-2. Definir el nombre del repositorio
+2. Definir el nombre del repositorio, una descripción, si es público y una licencia si es que se desea proteger su contenido.
 
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep02.png' width="60%">
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/licencia.png' width="60%">
+
 
 
 
