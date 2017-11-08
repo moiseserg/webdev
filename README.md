@@ -45,14 +45,54 @@ De esta forma todo mundo podrá ver tu código fuente... al ser un proyecto esco
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep01.png' width="40%">
 
 2. Definir el nombre del repositorio, una descripción, si es público y una licencia si es que se desea proteger su contenido.
-
-<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep02.png' width="50%">
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitNewRep02.png' width="50%"> 
 <img src='https://github.com/moiseserg/webdev/blob/master/docs/images/licencias.png' width="35%">
 
+## Configurar el proyecto como *gituhub pages*
+
+
+1. Ir al menú configuración (**settings**)
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode01.png' width="65%">
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode02.png' width="65%">
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode03.png' width="65%">
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode03a.png' width="65%">
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode04.png' width="65%">
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode05.png' width="65%">
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode07.png' width="65%">
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode08.png' width="65%">
 
 
 
-Revisar las siguientes ligas para más detalles:
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode08a.png' width="65%">
+
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode09.png' width="65%">
+
+
+
+<img src='https://github.com/moiseserg/webdev/blob/master/docs/images/gitCode09a.png' width="65%">
+
+
+
+
+
+### Revisar las siguientes ligas para más detalles:
 * [páginas para usuarios y proyectos](https://help.github.com/articles/user-organization-and-project-pages/)
 
 * [configurando github para publicar páginas](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
