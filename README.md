@@ -102,8 +102,9 @@ Después de hacerlo, se podrá ver el index creado en los pasos anteriores. Así
 
 
 
-La información de este  documento es un formato llamado markdown que se usa para editar de manera fácil páginas denominadas *wikis*
+La información de este  documento es un formato llamado markdown que se usa para editar de manera fácil páginas denominadas *wikis*, lo siguiente es el documento que aparece por default al crear el archivo README.md que tiene la información básica para editar dicho archivo.
 
+<hr>
 
 You can use the [editor on GitHub](https://github.com/moiseserg/webdev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
