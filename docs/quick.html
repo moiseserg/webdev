@@ -5,11 +5,14 @@
 	<title>Quicksort</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
 
-	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-
-
+<link href="https://fonts.googleapis.com/css?family=Lora|Roboto|Space+Mono" rel="stylesheet">
 	<style type="text/css">
-		font-family: 'Roboto Mono', monospace;
+	
+
+		body {
+			font-family: 'Space Mono';
+			font-style: oblique;
+		}
 	</style>	
 </head>
 <body>
@@ -30,7 +33,7 @@
 
 		<div class="col-1"></div>
 		<div class="col-10 ">
-			<div class="alert alert-primary" role="alert">
+			<div class="alert alert-primary monofont" role="alert">
 			  Introduce los valores a ordenar
 			</div>
 
@@ -48,7 +51,7 @@
 			    	<button type="button" class="btn btn-default" id="dibujar" onclick="iniciar()">Dibujar</button>
 			    </div>
    			    <div class="col-2">
-			    	<button type="button" class="btn btn-default" onclick="ejecutar()">Ejecutar</button>
+			    	<button type="button" class="btn btn-default" onclick="ejecutar()">Calcular pivote</button>
 			    </div>
 
   			    <div class="col-2">
@@ -57,6 +60,10 @@
   			    <div class="col-2">
 			    	<button type="button" class="btn btn-default" onclick="detener()">Detener</button>
 			    </div>
+   			    <div class="col-2">
+			    	<button type="button" class="btn btn-default" onclick="quickinit()">Tabla de ejecución</button>
+			    </div>
+
 				
 			</div>
 		</div>
@@ -143,7 +150,7 @@
 
 
 		ctx.textAlign = "center";
-		ctx.font = "15px Roboto Mono";
+		ctx.font = "15px Lora";
 
 
 		//dibujado inicial de los items
@@ -253,6 +260,11 @@
 
 
 	function quickinit(){
+
+		var tablaQ = document.getElementById("salida");
+		while (tablaQ.firstChild) {
+		    tablaQ.removeChild(tablaQ.firstChild);
+		}
 
 		separar();
 		addRow(0, arreglo.length-1, "Inicio");
