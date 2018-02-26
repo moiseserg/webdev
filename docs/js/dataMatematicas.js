@@ -158,7 +158,201 @@ data.push(
             "100+62 = 162",
             "100+26 = 162",
             "100+62 = 126",
-            "100+26 = 126"
+            "100+26 = 126",
+        ],
+        answer: 3
+    },
+    {
+        question:   "De la siguiente pareja de números indica el mayor:  &nbsp; "+
+                    "<b class='rojo'>25</b>  &nbsp;  &nbsp;   <b class='verde'>52</b>",
+        options: [
+            "<b class='rojo'>25</b>",
+            "<b class='verde'>52</b>",
+        ],
+        answer: 1
+    },
+    {
+        question:   "De la siguiente pareja de números indica el mayor:  &nbsp; "+
+                    "<b class='rojo'>34</b>  &nbsp;  &nbsp;   <b class='verde'>43</b>",
+        options: [
+            "<b class='verde'>43</b>",
+            "<b class='rojo'>34</b>",
+        ],
+        answer: 0
+    },
+    {
+        question:   "De los siguientes números indica el mayor:  &nbsp; "+
+                    "<b class='rojo'>56</b>  &nbsp;  &nbsp; <b class='verde'>66</b> "+
+                    " &nbsp;  &nbsp; <b class='rojo'>45</b> &nbsp; &nbsp; <b class='verde'>71</b>",
+        options: [
+            "<b>56</b>",
+            "<b>71</b>",
+            "<b>66</b>",
+            "<b>45</b>",
+        ],
+        answer: 1
+    },
+    {
+        question:   "De los siguientes números indica el mayor:  &nbsp; "+
+                    "<b class='rojo'>252</b>  &nbsp;  &nbsp; <b class='verde'>166</b> "+
+                    " &nbsp;  &nbsp; <b class='rojo'>245</b> &nbsp; &nbsp; <b class='verde'>171</b>",
+        options: [
+            "<b>252</b>",
+            "<b>166</b>",
+            "<b>245</b>",
+            "<b>171</b>",
+        ],
+        answer: 0
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/trompo.png' width='200'></td><td>"+
+                    "Dionisio fue a la tienda de juguetes y con sus ahorros compró una "+
+                    "<b>pelota de $35</b> y un <b>trompo de $7</b>. Al salir de la tienda, "+
+                    " Dionisio se dio cuenta de que le habían quedado $8. "+
+                    "<br><br>¿Cuánto dinero tenía ahorrado? ",
+        options: [
+            "<b>42</b>",
+            "<b>34</b>",
+            "<b>50</b>",
+            "<b>49</b>",
+        ],
+        answer: 2
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/muneca.png' width='200'></td><td>"+
+                    "Evelia, hermana de Dionisio, tenía poco dinero ahorrado y "+" le pidió a su papá $28 para comprar "+
+                    "una<b> muñeca de $60</b>."+
+                    "<br> ¿Cuánto dinero había ahorrado Evelia? ",
+        options: [
+            "<b>28</b>",
+            "<b>56</b>",
+            "<b>60</b>",
+            "<b>32</b>",
+        ],
+        answer: 3
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/oso.png' width='200'></td><td>"+
+                    "A Elvia su papá también le dio dinero; con los $62 que llevaba completó para "+
+                    "comprar un <b>oso que costaba $75</b>."+
+                    " <br>¿Cuánto dinero le dio su papá?" ,
+        options: [
+            "<b>13</b>",
+            "<b>16</b>",
+            "<b>62</b>",
+            "<b>75</b>",
+        ],
+        answer: 0
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/crayones.png' width='200'></td><td>"+
+                    "Alma tenía algunos crayones, Enriqueta le dio 11 más. "+
+                     "Ahora Alma tiene 57. <br>"+
+                    "¿Cuántos crayones tenía Alma al principio? " ,
+        options: [
+            "<b>46</b>",
+            "<b>11</b>",
+            "<b>57</b>",
+            "<b>13</b>",
+        ],
+        answer: 0
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/canicas.png' width='200'></td><td>"+
+                    "Cuando Roberto terminó de jugar "+
+                    "canicas, había ganado 12 canicas, con lo "+
+                    "que completó un total de 19.<br>¿Cuántas "+
+                    "canicas tenía antes de jugar? " ,
+        options: [
+            "<b>13</b>",
+            "<b>14</b>",
+            "<b>7</b>",
+            "<b>12</b>",
+        ],
+        answer: 2
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/patos.png' width='200'></td><td>"+
+                    "Margarita fue a la feria y jugó dos veces "+
+                    "el tiro al blanco. Cada turno costaba "+
+                    "$25. Como no llevaba dinero suficiente, "+
+                    "su mamá le dio $12.<br> ¿Cuánto dinero "+
+                    "llevaba Margarita?" ,
+        options: [
+            "<b>48</b>",
+            "<b>38</b>",
+            "<b>50</b>",
+            "<b>25</b>",
+        ],
+        answer: 1
+    }
+
+
+    ,
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/ferreteria.png' width='200'></td><td>"+
+                    "Óscar fue a la ferretería y compró un martillo en $65 y "+
+                    "un juego de 2 llaves con un precio de $98.  "+
+                    "¿Cuánto tuvo que pagar? " ,
+        options: [
+            "<b>198</b>",
+            "<b>138</b>",
+            "<b>163</b>",
+            "<b>168</b>",
+        ],
+        answer: 2
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/ferreteria.png' width='200'></td><td>"+
+                    "Óscar fue a la ferretería y compró un martillo en $65 y "+
+                    "un juego de 2 llaves con un precio de $98.  "+
+                    "Pagó con un billete de $200 "+
+                    "¿Cuánto le dieron de cambio? ",
+        options: [
+            "<b>37</b>",
+            "<b>48</b>",
+            "<b>38</b>",
+            "<b>25</b>",
+        ],
+        answer: 0
+    }
+
+
+    ,
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/ferreteria.png' width='200'></td><td>"+
+                    "Don Javier compró una llave de cruz de $57 y un juego "+
+                    "de baleros de $35. <br> ¿Cuánto tuvo que pagar? " ,
+        options: [
+            "<b>89</b>",
+            "<b>94</b>",
+            "<b>92</b>",
+            "<b>102</b>",
+        ],
+        answer: 2
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/crayones.png' width='200'></td><td>"+
+                    "Minerva compró una caja de lápices de colores de $43  "+
+                    "y una libreta de $28. <br> ¿Cuánto gastó? ",
+        options: [
+            "<b>73</b>",
+            "<b>71</b>",
+            "<b>81</b>",
+            "<b>870</b>",
+        ],
+        answer: 1
+    },
+    {
+        question:   "<table class='table'><tr><td><img src='imgs/ferreteria2.png' width='200'></td><td>"+
+                    "Margarita y Rosalba fueron a la ferretería y compraron  "+
+                    "un martillo de $73 y un juego de desarmadores de $89.  "+
+                    "<br> ¿Cuánto gastaron en su compra? ",
+        options: [
+            "<b>167</b>",
+            "<b>178</b>",
+            "<b>172</b>",
+            "<b>162</b>",
         ],
         answer: 3
     }
