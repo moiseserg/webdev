@@ -40,13 +40,13 @@ data.push(
                     " las <b class='verde'>verdes de 10</b> y las <b class='azul'>azules de 1</b>. "+
                     "<br> ¿Cuántos puntos obtuvo Marcos ?" +
                     "<table class='table table-hover'><tr><th>Rojas</th><th>Verdes</th><th>Azules</th></tr>"+
-                    "<tr><td><b class='rojo'>O O</b> </td><td><b class='verde'>O O O O &nbsp; &nbsp; O O O O &nbsp; &nbsp; O O O  </b></td><td><b class='azul'>O O O &nbsp; &nbsp; O O O  </b></td></tr>",
+                    "<tr><td><b class='rojo'>O O</b> </td><td><b class='verde'>O O O &nbsp; &nbsp; O O O &nbsp; &nbsp; O O O  </b></td><td><b class='azul'>O O O &nbsp; &nbsp; O O O  </b></td></tr>",
         options: [
-            "316",
-            "416",
-            "206"
+            "286",
+            "296",
+            "276"
         ],
-        answer: 0
+        answer: 1
     },
     {
         question:   "En un juego de matatena, las fichas <b class='rojo'>rojas</b> tenían un valor de <b class='rojo'>100 puntos</b>; "+
@@ -355,6 +355,48 @@ data.push(
             "<b>162</b>",
         ],
         answer: 3
+    }
+
+    ,
+    {
+        question:  "<table class='table'><tr><td><img width='200' src='imgs/tacos.png'></td><td>"+
+                    "Don Luis compró tacos para él, sus dos "+
+                    "2 hijos y su esposa. Pidió una orden de  "+
+                    "cinco tacos para cada uno. ¿Cuántos tacos "+
+                    "compró en total? " ,
+        options: [
+            "<b>15</b>",
+            "<b>20</b>",
+            "<b>25</b>",
+            "<b>30</b>",
+        ],
+        answer: 1
+    },
+    {
+        question:   "<table class='table'><tr><td><img width='200' src='imgs/sobrinos.png'></td><td>"+
+                    "Marina llevó a sus seis sobrinos a comprar "+
+                    "juguetes. Cada uno escogió cinco "+
+                    "juguetes. ¿Cuántos juguetes compró Marina "+
+                    "en total? ",
+        options: [
+            "<b>15</b>",
+            "<b>20</b>",
+            "<b>25</b>",
+            "<b>30</b>",
+        ],
+        answer: 3
+    },
+    {
+        question:    "<table class='table'><tr><td><img width='200' src='imgs/ferreteria.png'></td><td>"+
+                    "Juanito tiene seis cajas con siete chocolates "+
+                    "cada una. ¿Cuántos chocolates tiene en total? ",
+        options: [
+            "<b>36</b>",
+            "<b>42</b>",
+            "<b>49</b>",
+            "<b>40</b>",
+        ],
+        answer: 1
     }
 
 
