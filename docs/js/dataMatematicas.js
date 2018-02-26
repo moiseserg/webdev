@@ -73,7 +73,7 @@ data.push(
                     "<tr><td>Poncho</td><td><b class='rojo'> X X X</b> </td><td><b class='verde'>X X X X  X X  X X </b></td><td><b class='azul'>X X X X X X X X</b></td></tr>",
         options: [
             "536",
-            "386",
+            "388",
             "435"
         ],
         answer: 1
@@ -89,6 +89,78 @@ data.push(
             "330"
         ],
         answer: 0
+    },
+    {
+        question:   "Al puesto de doña Tere llegó un cargamento de naranjas. Cada caja tiene 100 naranjas, cada costal 10, "+
+                    "y algunas frutas llegaron sueltas. ¿Cuántas naranjas hay en total? <br><br>"+
+                    "<img src='imgs/naranjas2.png' width='500'>",
+        options: [
+            "100+32 = 132",
+            "100+23 = 123",
+            "100+32 = 123",
+            "100+23 = 132",
+        ],
+        answer: 0
+    },
+    {
+        question:   "Al puesto de doña Tere llegó un cargamento de naranjas. Cada caja tiene 100 naranjas, cada costal 10, "+
+                    "y algunas frutas llegaron sueltas. ¿Cuántas naranjas hay en total? <br><br>"+
+                    "<img src='imgs/naranjas3.png' width='500'>",
+        options: [
+            "100+42 = 142",
+            "100+42 = 124",
+            "100+24 = 142",
+            "100+24 = 124",
+        ],
+        answer: 3
+    },
+    {
+        question:   "Al puesto de doña Tere llegó un cargamento de naranjas. Cada caja tiene 100 naranjas, cada costal 10, "+
+                    "y algunas frutas llegaron sueltas. ¿Cuántas naranjas hay en total? <br><br>"+
+                    "<img src='imgs/naranjas4.png' width='500'>",
+        options: [
+            "100+14 = 114",
+            "100+41 = 114",
+            "100+41 = 141",
+            "100+14 = 141",
+        ],
+        answer: 2
+    },
+    {
+        question:   "Al puesto de doña Tere llegó un cargamento de naranjas. Cada caja tiene 100 naranjas, cada costal 10, "+
+                    "y algunas frutas llegaron sueltas. ¿Cuántas naranjas hay en total? <br><br>"+
+                    "<img src='imgs/naranjas5.png' width='500'>",
+        options: [
+            "100+82 = 128",
+            "100+28 = 182",
+            "100+82 = 182",
+            "100+28 = 128",
+        ],
+        answer: 3
+    },
+    {
+        question:   "Al puesto de doña Tere llegó un cargamento de naranjas. Cada caja tiene 100 naranjas, cada costal 10, "+
+                    "y algunas frutas llegaron sueltas. ¿Cuántas naranjas hay en total? <br><br>"+
+                    "<img src='imgs/naranjas6.png' width='500'>",
+        options: [
+            "100+83 = 138",
+            "100+38 = 138",
+            "100+83 = 183",
+            "100+38 = 183",
+        ],
+        answer: 1
+    },
+    {
+        question:   "Al puesto de doña Tere llegó un cargamento de naranjas. Cada caja tiene 100 naranjas, cada costal 10, "+
+                    "y algunas frutas llegaron sueltas. ¿Cuántas naranjas hay en total? <br><br>"+
+                    "<img src='imgs/naranjas7.png' width='500'>",
+        options: [
+            "100+62 = 162",
+            "100+26 = 162",
+            "100+62 = 126",
+            "100+26 = 126",
+        ],
+        answer: 3
     }
 
 
